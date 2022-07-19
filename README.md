@@ -385,13 +385,16 @@ or doing individual projects, rather than this assignment being so centered arou
 
 ## Ahmed – 
 
-#• What went well 
+• What went well 
 Since the group was in shambles and the majority of the group did no work, likely because of other assignments, nothing really went well. I would like to improve our experience on our next group project, and I hope this never happens again because this group was very inactive and we could have accomplished much more and much better if we had only put our minds to it.
-#• What could be improved 
+
+• What could be improved 
 There are many things that could be improved, starting with our communication skills. If our group communicated better, we could move forwards more quickly and effectively; instead, our lack of communication has led to or nearly led to failure for this group. Another thing that could be improved is how we divide the work amongst each of us. This could be done by assigning a group leader, and that group leader could then assign to each member what they would do.
-#• At least one thing that was surprising 
+
+• At least one thing that was surprising 
 One thing that struck me was how no one chose to designate a team leader. In my opinion, a team leader is the most important component of a team, thus the fact that this team isn't doing well doesn't surprise me because we failed to do so. Without a leader, everything starts to fall apart.
-#• At least one thing that you have learned about groups
+
+• At least one thing that you have learned about groups
 I know this has been said before, but I have learned that every group needs a leader and that without a leader, a group doesn't actually exist. I have also learned that in order for a group to be effective, everyone needs to pitch in and help out. If we don't cooperate, there may be many uncertainties and conflicts. 
 
  
