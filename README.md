@@ -1,4 +1,4 @@
-# A2-Group-39
+# A3-Group-39
  
 # Team name: *Internet Explorers 404* 
 
@@ -8,389 +8,586 @@
 
 
 
-# Our Personal Information: 
+Team Profile  
 
+Team Name 
 
+404 internet explorers (Group 39) 
 
-### Amy Lovett 
+  
 
-Goes by the alias DeepFryGirl on GitHub 
+Personal Information 
 
-Interested in the field of Artificial intelligence 
+Name: Nicholas Kyriakakis 
 
-Currently studying a Bachelor of Information Technology, at RMIT 
+Interests: Interested in Finance and in relation to how IT (Information Technology) can be efficient in smoothing those systems 
 
-Student number s3559100 
+Student number: s3814684  
 
-IT experience is narrowed down to a wide view on development, application and how these aforementioned systems can work in daily life to broaden a new range of skills and knowledge to work towards a new career. Amy currently has a job in a support-type role as a customer service officer, taking inbound calls.  
+Background: Australian, Greek background with the ability to speak English and a beginner’s level of Japanese and Chinese. 
 
-<p> <a href="https://deepfrygirl.github.io/" target="_blank">Amy's Github Page</a></p>
+IT Experience: A small amount of IT experience from an early age during primary school programs and a father who specializes in It, however outside of that personally zero experience, hoping that this course will shed some needed light on the topic and give ways to learn new skillsets. 
 
- 
+  
 
- 
+Name: Ahmed Khalaf 
 
-### Kaihang Eng 
-
-Interests in the wider field of IT, emcompossing, PCs, smartphones and a wide array of applications. 
-
-Currently studying Bachelor of Computing and IT under Open University (UK) 
-
-Student number: s3964410 
-
-Background: Malaysian Chinese 
-
-IT Experience includes a plethora of different skill sets and abilities such as: managing their own virtual server that they’ve rented from a hosting service, hosting their own websites, configuring DNS with an UI, coding several automation scripts and chatbots with Python, writing their own static websites with HTM and CSS, build their own PC, flashing new operating systems into their smartphones, managing household networking and several more. Their dedication to continual learning and reinforcement to learning the basics is a key factor in their learning path throughout life. 
-
- <p> <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaiheng's Github Page</a></p>
-
- 
-
-### Ahmed Khalaf 
-
-Interested in the field of software engineering 
+Interests: Interested in the field of software engineering  
 
 Student number: s3967496 
 
 Background: Born and raised in Saudi Arabia, but from Palestine, then moved to New Zealand and currently reside in Australia with the ability to speak Arabic and English. 
 
-IT experience includes learning to program from a young age using the language Scratch, primary focus on coding and creating programmes from the ground up. Proceeded to learn later in life a wide array of programming languages during computer science courses such as; Python, HTML, CSS, Java and SWL databases. Also use to using a 3D Printer to create a robotic body.  
+IT Experience: includes learning to program from an early age using the language Scratch, primary focus on coding and creating programs from the ground up. I proceeded to learn later in life a wide array of programming languages during computer science courses such as; Python, HTML (HyperText Markup Language), CSS (Cascading Style Sheets), Java and SWL databases. Also use to using a 3D (3 Dimensional) Printer to create a robotic body. 
 
- <p> <a href="https://ahmkhalaf.github.io/Assignment-1/" target="_blank">Ahmed's Github Page</a></p>
+  
 
+Group Processes 
 
+The group itself did not function as a group for assignment 2, with lack of communication between group members, no meetings recorded, and general slackness. 
 
+Changes towards assignment 3; Promoting a group leader to guide everyone in what tasks need to be outlined, more direct communication on Microsoft teams, holding team meetings to understand where people are in reference to the planned outcome and to have an open dialogue between members.  
 
-### Nicholas Kyriakakis 
+  
 
-Interested in Finance and in relation to how IT can be efficient in smoothing those systems 
+  
 
-Student number: s3814684 
+  
 
-Background: Australian, Greek background with the ability to speak English and a beginners level of Japanese and Chinese.  
+Career Plans 
 
-IT Experience: A small amount of IT experience from a young age during primary school programmes and a father who specialises in It, however outside of that personally zero experience, hoping that this course will shed some needed light on the topic and give ways to learn new skillsets.  
+Nicholas: Financial Advisor  
 
- <p> <a href="https://ramsey1234567.github.io/COSC2196-Introduction-to-Information-Technology/PDF/ProjectPDF.pdf" target="_blank">Nicholas's Github Page</a></p>
+The career path for Nicholas has not changed since assignment 1 and 2. 
 
+Ahmed: Software Engineer  
 
+The career path for Ahmed has not changed since assignment 1 and 2. 
 
+A comparison between these two jobs is as follows: 
 
+A financial advisor specializes in giving credible financial advice to a client in various areas, for example; Superannuation towards retirement. They help the client set specific financial plans outlined in what the desired goals and outcomes of a client is to help achieve those goals or realign the goals to be more reasonable by putting in place certain strategies for the outcomes. 
 
-# Team Personality Profile Tests:  
+  
 
-Myers Briggs and What kind of learning type tests all taken by group members results below 
+A software engineer specializes in the design and creation of computer systems and applications to achieve an outcome to solve problems. By putting forward their knowledge in various areas of programming and development they strive to create solutions to real world problems given to them by their clients, employers, or their own curiosity a very hands-on, deep-thinking role.  
 
-![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)
+  
 
-<img src="![Picture1](https://user-images.githubusercontent.com/107126263/179645085-9adf9241-1f12-431d-bcbe-b2619f9f9a36.png)" alt="Myers Briggs" style="width:900px;height:500px;">
+The similarities between the two careers listed are the fact that they both must solve real-world problems for someone by applying their expertise in an area to create a finished product to help with everyday life/financial life. They both use problem solving skills and strategies to form the basis of their profession.  
 
+  
 
+The differences between these positions are that the field they specialize in has some crossover in terms of using computer programs, but the fields of finance and software engineering are not exactly overlapping. Software engineers do at times involve themselves with some form of financial knowledge for a budget of a product but not the strategic length or plan in the future as they focus on development for products.  
 
+  
 
-# Using the results from the Myers Briggs test  
-
-Amy is an INFJ-A certifying as an Advocate for diplomatic and confident individualism skills 
-
-Ahmed is an ISFP-A certifying as an Adventurer for explorative and confident individualism skills 
-
-Kaihang is an INFP-T certifying as a Mediator for diplomatic and constant improvement skills 
-
-Nicholas is an ESTJ-A certifying as an Executive for being a Sentinel and having people mastery skills.  
-
- 
-![Picture2](https://user-images.githubusercontent.com/107126263/179645281-b5dae594-4e36-4c69-b6ef-46bc9f3867f5.png)
-
- 
-
- 
-
-# Individual tests selected by each team member  
-
-
-
-## Amy
-selected Generic Conspiracists Beliefs Test In which she scored a 5/5 
-
-
-![Picture3](https://user-images.githubusercontent.com/107126263/179645770-c9b3435e-2f65-4118-a2f2-11a5db305936.png)
-
-
-
-## Ahmed 
-selected a creativity test and they measure by score value his result was a 54
-
- 
-![Picture4](https://user-images.githubusercontent.com/107126263/179645742-b5d40f94-b01d-471d-80b0-04b51b81a358.png)
-
-
-
-## Kaihang 
-selected a creativity test they scored a 50.91
-
-
-![Picture5](https://user-images.githubusercontent.com/107126263/179645630-52ac3d59-8e63-4a49-a296-cb3e74beac95.png)
-
- 
-
-## Nicholas 
-selected another personality trait test 
-
-
- ![Picture6](https://user-images.githubusercontent.com/107126263/179645565-87703846-3947-413b-b213-6b5c5019c84e.png)
-
-
-
-# Tools used:
-
-Github a program used to consolidate the teams work onto an online repository system to where it can use its primary function of being a code hosting platform to where the team members can interact within the repository to control and collaborate on the project together leading to the creation of a website.  
-
-Microsoft teams is used as a general communication programme between users of the team be leaving direct messages within the team group chat and coordinating meetings.   
-
-# Links to websites from team members:  
-
-<p> <a href="https://deepfrygirl.github.io/" target="_blank">Amy's Github Page</a></p>
-
-<p> <a href="https://ahmkhalaf.github.io/Assignment-1/" target="_blank">Ahmed's Github Page</a></p>
-
-<p> <a href="https://kh-eng-rmit.github.io/" target="_blank">Kaiheng's Github Page</a></p>
-
-<p> <a href="https://ramsey1234567.github.io/COSC2196-Introduction-to-Information-Technology/PDF/ProjectPDF.pdf" target="_blank">Nicholas's Github Page</a></p>
-
-
-
-# Link to github repository :
-A2-Group-39-Git (deepfrygirl.github.io)
-
-https://github.com/DeepFryGirl/A2-Group-39-Git
-
-
-<b1></b1>
-
- 
-# Ideal Jobs for the team members are as follows: 
-
-### Amy 
-* AI specialisation  
-
-### Ahmed 
-* Software Engineer 
-
-### Kaihang 
-* Software Programmer  
-
-### Nicholas 
-* Financial Advisor  
-
-Leaving aside Nicholas’ Financial Adviser job selection, the ideal jobs from Amy, Ahmed and Kaihang all involve great usage of computer languages to create varying different outcomes focusing on certain fields, however being more specific between a programmer and an engineer is more title based with a focus on programmer generally solving solutions with pre-existing tools/frameworks where as an engineer leans more towards developing those tools/frameworks and software programmes focus on a single stage of the development cycle whereas the engineer see it from start to end.  
-
-AI engineer would focus on the creation of their AI system from start to end using various engineering and programming features at their behest.  
-
-A financial advisor in compatibility to these aforementioned jobs would only use their already given software programmes to help create advice for their clients. 
-
-
- 
-# Industry Data
-## What are the Job Titles for your group's ideal jobs?
-#### Amy - ideal job title – Conversational AI consultant, Professional Services, Google Cloud
-#### Ahmed - ideal job title – Software Engineer
-#### Kaihang ideal job title – Software Programmer 
-#### Nicholas ideal job title – Senior Financial Adviser 
-
-## How do each of these rank in terms of demand from employers?
-
-### Nicholas - Financial Adviser -
-Employers see a growth of 16.4% in the last year of jobs within the financial industry sector or 2.8% in the last quarter ‘https://labourmarketinsights.gov.au/industries/industry-details?industryCode=K’ 
-in terms of specific demand for this job ‘The NSC produces employment projections to show where likely future job opportunities may be. The latest data are for the five years from November 2021 to November 2026. 
-Over this period, the number of workers: is expected to grow strongly and is likely to reach 68,800 by 2026. (Source: National Skills Commission Employment Projections to 2026.) https://labourmarketinsights.gov.au/our-research/employment-projections/
-The job generally gravitates to these two main industries, Financial and Insurance services, or Professional, scientific, and technical services.
-
-### Kaihang - Software Programmer –
-Employers see ap projected change of an increase of 27% which is approximately 42,200 jobs within this specific space for software programmers 
-‘The NSC produces employment projections to show where likely future job opportunities may be. The latest data are for the five years from November 2021 to November 2026. Over this period, the number of workers: is expected to grow very strongly and is likely to reach 198,400 by 2026. Source: National Skills Commission Employment Projections to 2026. ‘https://labourmarketinsights.gov.au/occupation-profile/software-and-applications-programmers?occupationCode=2613’ 
-The job generally gravitates to these two main industries, Professional, scientific, and technical services, or financial and insurance services 
-
-### Ahmed – Software engineer –
-Data for employment outlook for this specific job is located within the software programmer section indicating growth within this field as it is a branch off of the software programmer career path to a more development orientated position one can draw that if software programmer jobs are on the ascending scale that software engineering jobs are also on an uptrend.
-
-### Amy – AI –
- As with software engineer, working in AI can also contain more of a focus on data analysis but still stems from software programming however as an even more specialised field it is reasonable to assume that the jobs within this field while limited in scope the jobs within this market will still be on an upward trend due to the amount of software programming jobs are increasing.
- 
- 
-Ranking these ideal jobs in terms of demand from employers sees Kaihang’s Software Programmer at the most in demand, Nicholas’ Financial adviser role at second most, whereas Amy and Ahmed in a more specialised version of software programmer with unspecified amounts of job positions and data at a Ahmed third and Amy fourth. 
-
-
-From your group's ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group's required skill set). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc). 
-
-## General Skills 
-- Reading comprehension, speaking, active listening, critical thinking, monitoring, writing, judgement, and decision making, serving others, mathematics, persuasion, complex problem solving, management of finite resources, coordination with others, instructing, management of personal resources, learning strategies, Quality control analysis, Time management, social perceptiveness
-
-## IT-Specific Skills
-Python, COBOL, SQL, Javascript, C++, database, SAS (statistical analysis system), systems analysis, programming, systems evaluation, operations analysis, technology design.
-
-## How do the IT-specific skills in your required skill set rank in terms of demand from employers?
-IT-specific skillset ranking – SQL, JavaScript, System analysis, programming, Python, systems evaluation, operations analysis, C++, SAS, COBOL.
-
-##How do the general skills in your required skill set rank in terms of demand from employers? 
-
-### General skill ranking 
-– Speaking, Active listening, writing, coordination with others, instructing, critical thinking, monitoring, judgement and decision making, complex problem solving, time management, serving others, management of personal resources, management of finite resources, social perceptiveness, reading comprehension.
-
-## What are the three highest ranked IT-specific skills which are not in your required skill set? 
-Three highest ranked IT-specific skill which were not listed in our skill sets are: Microsoft windows, project management and SAP 
-What are the three highest ranked general skills which are not in your required skill set?
-
-## Three highest ranked General skills which were not listed in our skill sets are:
-Troubleshooting, Detail-Orientated and Creativity. 
-
-### Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
-Having looked through the Burning Glass data, the opinion on the ideal jobs of the group has not changed, in fact you might say has actually solidified peoples position in what skillsets they need going forward down their respective path and reinforced the need for quality education and experience to gain the kind of skills needed, for example Troubleshooting as a general skill was not listed in the job skillsets, however as a reasonable person would know, this kind of skill is truly invaluable to have and highly saught after by employers according to the Burning Glass Data and in terms of IT-Specific skills, having good knowledge of a simple product such as Microsoft windows was unexpected to see ranked so highly though a common sense look, as a very highly used program and feature that most human beings on the planet have access to one can make assurances that it is a skill that a person would need to have mastery over to provide a service to others. 
-
-Updated - 2018 March Burning Glass Data - Labour Insight Jobs (Burning Glass Technologies) Skills in Greatest Demand (Baseline Skills) - Canvas Introduction to Information Technology (2237)
-
-
-# IT Work:
-Interview with an IT professional - a Software Architect
- 
-
-<a href="https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3814684_student_rmit_edu_au/Documents/Microsoft%20Teams%20Chat%20Files/Meeting%20in%20_General_-20220713_195316-Meeting%20Recording.mp4?csf=1&web=1&e=hyfLwg" target="_blank">Interview with IT specialist!</a>
-
-
-
-
-
-# IT Technologies
-
-### Cybersecurity:
-What does it do?
-
-What is the likely impact?
-
-How will this affect you?
-
-
-### Autonomous vehicles:
-What does it do?
-
-What is the likely impact?
-
-How will this affect you?
-
-
-### Blockchain and cryptocurrencies:
-What does it do?
-
-What is the likely impact?
-
-How will this affect you?
-
-
-### Machine Learning:
-What does it do?
-
-What is the likely impact?
-
-How will this affect you?
-
-
-# Project Ideas 
-Using the idea from Nicholas, the project idea brought forward will be roughly what was outlined previously 
-
-## Overview – 
-An App that is an aggregate of all the various streaming platforms that you have an active membership on. 
-This App would allow you to search for a piece of media and regardless of what streaming platform it is on, will redirect you including SSO, to that application/media stream with the addition of being able to be used on almost any device and system they come with whether it be for example: apple or android, the application will function for both. 
-The goal here is to be a quality-of-life changer for the multiple users of the application to greatly reduce one’s time and effort of finding a specific piece of media to view, while at the same time give the user multiple options through a recommend page with a list to various streaming platforms of other potential media which are related to the initial query.
-
-## Motivation –
-The motivation for this project is one out of frustration of having many streaming platforms to chose from at your fingertips but only to find the current one you’re logged into does not contain the piece of media you were looking to view, so you have to log out and log into another platform and if you’re mistaken again you’ll have to repeat it until you have the correct platform, that takes time which this project application will cut down on drastically and offer positive recommendations of other liked media sources to the original one you were seeking. 
-Also, a key reason to learn new skills by creating the app in the first place is another motivational point and knowing it will be of service to others.
-
-## Description –
-The product being developed is an in-depth piece of search system technology which will solve the problem created by a lack of inter-platform recognition by making it so a user can search various media platforms, this product will be focused on finding a certain piece of media from a varied amount of platforms.
-Using the example: The television show Stranger Things, which is broadcasted on the streaming platform Netflix, the program will be able to deliver you to the broadcasters domain of the specified media ‘Stranger Things’ on Netflix and open the program for you, without the need to go through different programs to find that specific piece of media. 
-The application will need the following to function correctly and be able to give the most accurate information regarding the searchable data, this includes: A database which will be used to store every single piece of media from the various platforms and then use the search function created through programming languages such as Python, to make a directory for the search to acquire the information from the database, which can be put into URL form to give the user a direct link to their destination, in doing so the quality of life of the user is increased to follow up with the different media sources this would then go through a normal networking system by the use of manual input from the user to give them their desired outcome a further example would be just like the Google function of searching a key word and being given links under it, except the main search result will apply to give you the desired media platform and then the additional results will be recommendations of the following key word(s) searched.
-Additional search history features as followed; searching through the database on inputs from users, must be a friendly interface that just takes the user exactly where they need to go with no added clutter, can bring up previous request history stored for the person and even mark media as a favourite.
-Using different devices, the app will have all if not at least the majority of the major in use systems such as android and apple so the program will be able to function on all devices that the users may have.
-The app will also have automatic speech recognition, which is a feature used for those who may have an injury, disability which leaves them unable to use their hands or lack the ability to write therefore they can use their voice to search for the piece of media they need instead. 
-Two forms of Data collection and caching, in data collection it will have an opt-out function for those who do not want any of their searches being recorded and given to a third-party as privacy to some of the people who use this app will be a top priority, as this also establishes a form of trust with the person using it knowing that nothing nefarious will happen to their data. Data caching so the app will store as much data as possible so it can be functional even without the internet as going back to a previous search it can tell you where you last found that piece of media instead of automatically opening it for you, just given you a reminder that it is there. 
-
-## Tools –
-Tools required to produce a project such as this will involve various different features from GitHub as a form of source-control in combination with fork that is an interface for GitHub, then using a integrated development environment such as visual studio 2022 for the basis of being the IDE to create the code for the application using all kinds of programming languages required for the task for example; Python. You will need access to the different phone systems such as android and apple to make sure the technology you’re creating works on both platforms. 
-
-## Skills – 
-The skills required in the previous project idea remain relevant as listed below. 
-skills required for this project will involve; Have an understand of programming languages such as Csharp and C++. Interface and database creation which must have significant backend to host the data of the media platforms, easy to use interface such as a cloud system. Find out how to gather information either by user driven APIs or directly sourced from the streaming platforms themselves.
-Additional skills required after reviewing the burning glass document to bring more light into the skills area of a project in IT would be critical thinking, judgement and decision making, time management skills, troubleshooting, detail-orientated work, SQL, JavaScript, system analysis, programming and systems evaluation. 
-
-## Outcome – 
-If this project is successful, it will create that quality-of-life users of multiple platforms have been looking for as a search function between all the possible locations to view a specific piece of media and give them useful and relative recommendations to view other sources instead of just a rough throw together of possible things you might like to see. The original issue was having either too many places to look or not an option to look with the lack of search functionality and the project is able to overcome this by giving the user the ability to be able to search between all platforms.
-The key impact areas this will develop is forward thinking going into the future with other programs to have this kind of feature as a baseline and create easier user access to the interface of programs and applications with the simplicity of a google like search bar. 
-
-
-
-## Marketability – 
-This application should be marketed along side of various streaming platforms within the play shop or apple shop to give users the ability to add this on as an additional feature, while it might look as if the application is driving possible consumers away from a platform, it also does the reverse in bringing people to the platform, using the Strange Things example once more someone who has Stan might use the search and realise that the program they want to watch is on Netflix instead and then that could lead to a Netflix purchase, whereas someone with Netflix might want to watch Billions, which could lead to a Stan purchase, so the net gain is really with all the streaming media platforms. 
-
-
-
-
-
-# Comments on how well the audit trail on git repository reflects the group’s work. 
-
-# Reflection piece 
-
-## Nicholas –  
-
-Reflecting on the groups performance as a whole, the usage of Microsoft teams and the response time between the members using a rating system out of 10, I would give the group a 2, the reason for this is the extreme lack of responses to the group assignment until the extended due date, which in turn caused me to do the vast majority of the assignment, something I did not plan for and had to cancel other appointments and work to complete. 
-
-What went well: The only thing that went well within the group, was my own work ethic to get the assignment done, constantly attempting to get the group together to begin and get something done, that persistence might be the reason why the assignment was completed.  
-
-What could be improved: The only thing that could be improved would be response time and participation of the other group members outside the twilight hour of submission. 
-
-One surprising feature: The surprising feature throughout the assignment would be the interview with the IT professional as the insightfulness of them and display of the IT industry really opened my eyes to a lot of different variables within the industry that I did not know of. 
-
-One thing learned about groups: As a baseline just attempt to do everything yourself as you might not know if someone else will contribute.  
-
-GitHub as a reflection of the group’s activity shows typesetting done by Amy on the final day, outside of that it does not show group contribution to the actual work being done. 
-
- 
-
-## Amy –  
-What could possibly go wrong with a group project?
-We have affirmed Murphys Law: Anything that could go wrong, will go wrong. 
-
-https://en.wikipedia.org/wiki/Murphy's_law
-
-We all have conflicting availablity, work hours, schedules, and are subject to the common psychology of :"diffusion of responsiblity"
-
-https://www.verywellmind.com/what-is-diffusion-of-responsibility-2795095
-
-- hoping someone else will tell us what to do (looks over and nods at Nicholas).
-
-There were a few attempts made to get the ball rolling initially, but at that stage, nobody had taken lead, until Nicholas stepped in "In the Nick of Time" to save our group project.
-Personally, I havent had electricity or internet or hot water for the last week, while I've been in the process of moving house, due to a miscommunications with the provider. Everything that could have gone wrong there, also went wrong there.  
-Nicholas has taken lead and typed the content, enabling me to upload this to a GitHub page *on the day our assignment is due*. 
-
-What went well: Having the content all typed ready to go, has enabled me to load this to GitHub.
-
-What could be improved: I think making a group project for a class assignment is a terrible idea really, everyone in the class has completely different schedules and work and home life obligations, and availability to complete our study hours, which I was told when enrolling, were "self-paced", so thinking I could slip behind one or two weeks and catch up in the next weeks, is not applicable or suitable for pending group assignent due dates! To get us all working together smoothly was a good idea in theory, but not one that we were able to readily put in to practise. Not starting early enough, timing issues with inactive group members, left an unfair work load on the remaining members.
-
-One surprising feature: The IT interview went fantastic. Great Work, Team Nicholas!
-
-One thing learned about groups:
-The sheer amount of content that is required of this project would have been difficult to allocate suitably within a group. 
-It would be a better learning experience for us to be focussed more on learning and applying HTML coding, or learning specific aspects of GitHub editors etc,
-or doing individual projects, rather than this assignment being so centered around the large amount of content that was involved with completing the requests of the assignement, and organising Team Meetings effectively, which simply did not happen for us.
- 
-
-## Ahmed – 
-
- 
-
-## Kaihang –  
+The career paths themselves are similar in terms of needing to achieve an education to end up at their desired goals and using this knowledge of problem solving to get the end, however they both take different routes from that point, to a more information technology focused route from a financial focused route. 
 
  
 
  
+
+Plans and Progress  
+
+  
+
+Details about what the project will do 
+
+The project will attempt to create a proof of concept based on the design features of a search engine with a database. The database process of retrieving information is as follows: When a query is initiated, searching for occurrence of (‘Stranger Things’ as an example) as they are found, the results are then displayed on the website. This will then show the user the results and recommendations related to the initial query, along with details of the piece of media, a link to take you to the streaming platforms information page of the media and an additional link to sign up to the stream platform if you wish to view it. The project will also have a final report attached to it based on the criteria of this assignment. 
+
+How we will get it done 
+
+The group work for the project will be divided into four sections, Ahmed, Amy, Kai, and Nicholas (amendment; group now down to Ahmed and Nicholas), Ahmed will focus on the GitHub portion of the assignment by relaying the information of the PDF report created by Nicholas, the formation of the proof of concept artefact will be done in GitHub with the possible addition of using search engine programs which will be listed in the tools and technology section of this report.  
+
+The group will function within Microsoft Teams and have a direct open dialogue with each other with emails and direct messaging on Microsoft teams in addition to meetings and an open document to implement any changes.  
+
+  
+
+Include how far development of features and outcomes have progressed 
+
+Creation and development of features within the program, have not escaped the scope as time restraints and departure of members has led to a focused and narrow area in what could be developed, the search functionality and database creation to show the proof of concept is on track to be completed. If more time were allocated looking for multiple weeks down the track in the future and with more funding for employees in addition to the group members, additional features could have been added, unfortunately that is not the case for this current project. 
+
+  
+
+How the project started journey from assignment 1 to 2 to actualized in 3 
+
+This project’s journey began with Nicholas’ original assignment 1, as an application to search out specific pieces of media and give you directions to that query raised and lead the user to the destination on a specific platform.  
+
+In assignment 2, the project had slightly differed in terms of turning an application into a website instead, leaving it to be modified by multiple peoples input and losing some of that functionality of an application but gaining the foundation of a website instead. 
+
+  
+
+Assignment 3, the project has differed once again. Using a website for the basis and creating a database in which the query can be pulled from and produce recommendations of other kinds of media related to the initial query into a sign-up page to the platform.  
+
+As stated, the journey for this project has evolved and changed over the period of twelve weeks, from a more boarder product to a more defined product the scope creep that could of appear has been trimmed back to the basics of the project. 
+
+  
+
+What stage we finished on refers to timeline. 
+
+The timeline provided in the timeframe section will lay out what has occurred during the project for more information.  
+
+  
+
+Include dead ends (scope creep) 
+
+As stated earlier in this report, additions to the project could have been made, however with the diminished work force anything additional was scraped before it was started on, however ideas of cross-platform, different forms of interconnectivity, additional quality assurance and a large array of recommendations could have happened if not for the limitations of the group. 
+
+  
+
+Product stages as a whole 
+
+Beginning the project, the decision to continue with a modified version of Nicholas’ project idea was accepted and work then began, report writing was left to Nicholas and realizing the group work was left to Ahmed in GitHub.  
+
+Steps that are taken to complete the project 
+
+Conduct a suitable amount of research into the field to produce a product with commercial viability 
+
+Define the scope of the produce and stick to the boundaries contained within said scope for the duration of the project 
+
+Conduct a plan review and oversight to make sure it is in line with the project guidelines 
+
+Brief group members every week when possible and leave open direct lines of communication between all members 
+
+Build a database of libraires from the streaming platforms that are to be used within the product  
+
+Create a test environment  
+
+Complete the building of the database along with the search functionality  
+
+Begin Interconnectivity testing 
+
+Being accessibility testing 
+
+Begin utility testing 
+
+Begin designing and creating a website front end using design elements 
+
+Create a production environment after testing is completed 
+
+Do additional tests within the testing environment before progressing to the production environment  
+
+Run everything past quality assurance member 
+
+Complete the final design specifications for the website 
+
+Complete legal documentation  
+
+Submit project and final report about the project 
+
+ 
+
+ 
+
+Tools 
+
+ 
+
+Provided link to website -  
+
+Provided link to Group Git repository -  
+
+Comments on audit trail -  
+
+ 
+
+ 
+
+ 
+
+Project Description 
+
+  
+
+Topic 
+
+An overview of this project is to look more at the service the project is set out to create. 
+
+The project itself is a service given to users to request information from the repository to find their destined media piece and see where it can be viewed and how to view it. Looking at the commercial value of the product, it will be designed around a commission basis from streaming platforms to give a certain percentage of sign-up fees to the owners of the project, in a way that ordering a pizza online while using other food-based websites to get your pizza other than from Dominos themselves.  
+
+The main audience this will attract is to be focused on newer users of streaming platforms, this can include owners of other platforms that are looking to switch or have multiple, the elderly population with the extremely simplistic nature and design of the product and bargain hunters, as with a commission-based product there can be deals in the future for using this specific way to sign up to a platform. By doing this a potentially large/untapped revenue stream can be acquired. 
+
+  
+
+Motivation 
+
+This project is important because it fills in a massive void in the market for streaming platforms with potentially untapped revenue sources, because it provides a functionality that is not currently available, it looks for people who are interested in a certain type of content, but not familiar with the technologies involved with that content, have a one stop shop to browse for recommendations based on their requests and give them a directory to go to and how to get there. 
+
+The project fits in with current IT trends as it is user focused and provides a defined outcome without any additional features or tweaks needing to be done to the project. It is also cross-platform friendly, which is a very current positive trend.  
+
+The project shows initiative about being at the forefront of commercial success with this kind of project due to a gap in the market, the project shows planning skills by laying out in detail how to get to the final product and leadership skills as project managers for the projects creation to show employers that this is feasible under our leadership.  
+
+  
+
+  
+
+Landscape 
+
+This specific field the project is entering is one with a limited scope of competitors, however to pinpoint one potential rival it would be SelectTV, however the main difference with SelectTV and our project is, with SelectTV you must purchase the streaming platforms to browse any content, compared to our project which finds the requested piece of media for you, with a guide on how to gain access to the media source, instead of already having the source. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aims 
+
+  
+
+The aim of this project is to produce a proof of concept for a product which will provide a service to millions of people worldwide and to do that the product will be to create a website that with further enhancement can be made into different applications. The product itself is with a functional search engine between different media platforms (focusing on streaming platforms such as: Netflix, Hulu, Amazon Prime) to deliver the user requested information on a certain television show and where to go to watch specified show and then provide recommendations for similar shows and upon selecting the platform it will take you to their subscription sign up page.  
+
+  
+
+Sub goals for this project include: 
+
+Creating a database; a database is a storage system where a repository of information is stored and received from to find a specific piece of media and give the relevant recommendations followed by links to correlating websites. The reason a database is needed is that this is the only storage tool capable of handling the information easily.  
+
+  
+
+Accessibility/Usability; Having multiple forms of access to the product as a user would create a perfect world usage, while I do not believe this project will have the resources and time to produce such a result, having it as a goal is as it is saying a goal and can contribute to scope creep from a base perspective but looking at a bigger picture situation, accessibility for users is paramount to a successful product of any kind.  
+
+  
+
+Cross-platform; While the project is focused on a webpage, potential expansion into cross-platform territory such as phone applications, kindles, audio book search features, the interconnectivity is endless and can go on any platform if it has access to the internet. Again, another overreach goal of the product for future times however keen minds always focuses on the potential of a product and goals it needs to have for commercial success. 
+
+ 
+
+ 
+
+Roles  
+
+  
+
+Defined roles of the team. 
+
+  
+
+Nicholas – Project Manager: Laying out the groundwork for the project through specific planning stages, executing and controlling the project to close it out successfully. Specifying what is required to create the product and detailing the process for the other members from start to finish. Skills to be used from monitoring and controlling the projects works, developing the team itself, keeping the project in line with the scope and not allow any scope creep to occur, responsible for time management of the group and quality assurance of the product.  
+
+  
+
+Ahmed – Lead Developer: Implementing what the project manager has laid out and what is required to reach the final product, this job position puts Ahmed at the forefront of the project to keep it on trajectory for a satisfactory result. Types of duties throughout this process can include building and the configuration of the product, ensuring the team keeps the project to quality standards, troubleshooting, debugging, and making sure the project stays on track. 
+
+ 
+
+Scope and Limits 
+
+  
+
+The true scope of focus for this project is to produce a directory search function on a website, which will look at a repository of different media databases from streaming platforms to deliver the requested response to the user with an assortment of recommendations in addition to the actual query. For example: Typing in the word ‘Stranger Things’ the search engine will retrieve your query and display a result of ‘Can be found on Netflix,’ shows you may also like (in similarity to the original query) ‘Silverpoint’ can be accessed from Hulu.  
+
+  
+
+Features that will not be produced in this project, the technology that concerns actual search functions, as we are just focused on the actual searching through programming and not creating a search engine from the ground up, for example: this project will not be using crawlers, spiders, or bots to scour the internet for additional content. 
+
+  
+
+The project will not include additional links to various sources such as signing up to a specific streaming platform to view the specified media query.  
+
+  
+
+The project will also not include pure indexation even though it can be considered very usual to store and categories content on a page with keywords, a ranking system is what this project will focus on, not indexing. 
+
+ 
+
+Tools and Technologies  
+
+The creation of this project will involve various tools and technologies. Those present in this project will be listed below into categories of Tools, Software, Hardware  
+
+  
+
+Tools 
+
+This project requires the usage of a database platform being ‘MySQL 8.0.30’  
+
+Programming languages such as C++ and Java 
+
+GitHub (Technically a software web application, but as the hosting source it will be classed as a tool) 
+
+ 
+
+Hardware 
+
+Computers 
+
+Telephones 
+
+Router 
+
+Modem  
+
+Servers/hosting company to provide a place with a single network (This will be for the final completed project if funding is secured to continue) 
+
+Keyboard 
+
+Mouse 
+
+ 
+
+Software 
+
+Elastic 8.3, as a basis to create the search engine using cloud technologies (Will not be shown in the assignment portion of the project, but further down the life cycle of the project) 
+
+Google Chrome 
+
+ 
+
+Testing 
+
+  
+
+The testing plan for this project will be undertaken in a two-phase process. 
+
+  
+
+Phase one 
+
+Will involve a test environment for the product, within this test environment all changes are to be undertaken, this includes and is not limited to interconnectivity, accessibility, device, and user testing all taking place in the test environment.  
+
+User testing will involve members close to the team to be able to test the product and provide feedback based on how it is able to perform and if the desired results were achieved. 
+
+  
+
+Phase two 
+
+The testing plan is to create a production environment which replicates the tested test environment. When changes are made in the future, they are safely made within the test environment and when they pass the quality assurance from the lead developer and project manager then they can be transferred over to the new production environment and be assessed for the final product.    
+
+ 
+
+ 
+
+Timeframe 
+
+The timeframe shown below states the functionality of the group to the plan. However, after changing the positions and the group itself being diminished in capacity all tasks will be undertaken by Nicholas and Ahmed. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Risks  
+
+  
+
+Risks come in all kinds of factors for projects of any type of the particular risk factors for 	this project are outlined below 
+
+  
+
+Copyright claims from the stream platform services for us using their databases of media for requests from users, can lead to potential copyright infringement claims.  
+
+Piracy: Somewhat like the copyright claims, it is a specified form of stealing for making unlawful copies of copyrighted products without authorisation.  
+
+Poor legal documentation: possibility of poor legal documentation being submitted to follow policies and laws throughout the world, lots of legal hurdles to pass through. 
+
+Workplace culture:  
+
+Scope Creep: Risk of scope creep incorporating and taking on more than the project can successfully deliver before the deadline date. 
+
+Failure to deliver: Same with scope creep, being unable to produce the final product in the time given.  
+
+Time management: Key to getting the project done is suitable time management skills however with the diminished workforce, this is a struggle to comply with.  
+
+Monetary affordability of continuation: Money makes the world function, and the project is no different in that regard without sufficient funds to employ the team/future employees’ completion is limited in scope.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Group processes and communications 
+
+The current contact methods between group members have been through the RMIT (Royal Melbourne Institute of Technology) group channel to acquire members, student email addresses and set up a Microsoft Teams group to discuss the project with. 
+
+Having a series of regular meetings and constantly typing out direct messages between group members throughout the project. 
+
+When direct messaging does not receive an answer, sending an email correspondence from the RMIT information given is the only other way the group can contact each other, or messages from the tutorial instructor to pass on to them as well.  
+
+Current group contact has been constant from direct messaging every two days, ramping up towards the end of the project and meetings once a week to outline what each member has done, according to the plan and discussing further work needs. 
+
+ 
+
+ 
+
+Skills and jobs 
+
+A group of venture capitalists have asked us to continue with our project for an additional six months and have given us funding to achieve a closer to completion goal, this money will be used to hire an additional 4 team members with skills required to complete this project. Listed below are the four positions that should be hired to take on the task of completing this project. 
+
+1. Web designer/developer 
+
+2. Database Engineer 
+
+3. Quality Assurance Engineer 
+
+4. Back-end Developer  
+
+  
+
+  
+
+Web Designer  
+
+  
+
+Skills: Front end web development skills: HTML, CSS / SASS / LESS, JavaScript (jQuery), PHP and MySQL.  
+
+  
+
+Working understanding of WordPress CMS (Change Management System) and Element or Page Builder.  
+
+  
+
+Experience with version control software (Subversion/GIT).  
+
+  
+
+Extensive Adobe Creative Cloud working knowledge of AI (Artificial Intelligence), ID and PS.  
+
+  
+
+Responsibilities: As a Web Designer your role will be to create and maintain a viable website design in terms of UX (User eXperience) and UI (User Interface) as a Web designer, it will be your job not only to improve upon the user’s journey using your creative and coding capabilities but to tackle and solve design decisions. 
+
+  
+
+  
+
+Database Engineer  
+
+Skills: Knowledge across multiple DBMSs (database management system) including SQL Server and Oracle. SQL is necessary!  
+
+  
+
+Cloud experience across AWS (Amazon Web Services) and/or GCP (Google Cloud Platform) (Google Cloud Platform).  
+
+  
+
+Advanced knowledge of database structure and theory.  
+
+  
+
+Experience with version control software (Subversion/GIT).  
+
+  
+
+Working understanding of backup and disaster recovery procedures.  
+
+  
+
+Extensive experience in DevOps environments 
+
+.  
+
+Experience with continuous build and test systems.  
+
+  
+
+Responsibilities: As a Database Engineer your main responsibilities for this role will include supporting customer platforms, tuning system performance, installing system wide software, supporting database hardware and software, writing, and maintaining documentation on the use of and procedures relating to various information systems as well as ensuring confidentiality, data security and privacy standards are adhered to. 
+
+  
+
+Quality Assurance Engineer 
+
+Skills: Extensive experience with web automation.  
+
+  
+
+Experience with version control software (Subversion/GIT).  
+
+  
+
+Strong analytical and problem-solving skills. 
+
+  
+
+Responsibilities: As a QA (Quality Assurance) Engineer your primary responsibilities are to manage test infrastructure and execution of automated tests, and continuously maintain automated test cases and raise any defects found during test and escalate in accordance with set procedures to ensure resolution of issues within appropriate time frames to minimize impact on project quality and schedule, as well as performing a series of accessibility tests to maintain usability. 
+
+  
+
+Back End Developer   
+
+Skills: Familiarity with Test-Driven Development, Refactoring, Clean Code, Clean Architecture, Design Patterns, Data Structures and Algorithms.  
+
+  
+
+Front end web development skills: JavaScript, Go, Zig, Rust, Python, Java, PHP, C/C++, C#.  
+
+  
+
+Strong debugging and troubleshooting skills.  
+
+  
+
+Knowledge across multiple DBMSs including SQL Server and Oracle.  
+
+  
+
+Experience with version control software (Subversion/GIT).  
+
+  
+
+Responsibilities: As a Back End Developer, you will also be developing several keys’ areas such as Process Automation, unit testing, building, developing, and enforcing standards, managing the API (Application Programming Interface) portfolio, and monitoring the API environment. Provide support and maintenance for existing technology as required. You will also be developing & maintaining website features, with specific consideration for: the development of workflow tools to assist both subscribed customers and associated content suppliers. 
+
+ 
+
+ 
+
+ 
+
+  
+
+Experience from the team 
+
+Nicholas – I have had zero experience outside of this course in using the tools listed and software for the creation of this project. 
+
+Ahmed – I have some experience as in my previous years I have built a website and done database work before, but I am still not at that high of a level 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Group Reflection  
+
+  
+
+Nicholas – Reflecting on the group's performance this time around is different, we first started assignment 2 with 6 members, it was diminished to 4 members and the participation factor with those members was zero or very minimal. In assignment 3, Ahmed and myself were very communicative at the start and while waiting for Kai and Amy to respond, we find out Kai has left the group and Amy is still missing in action. To say this project has been a success would be extremely far from the truth compared to the knowledge learnt during the course and the standard required to get a good result. We took up the roles of addressing a group leader and setting out who was to do what and where and even with this implementation, we still cannot form a functioning group and I am disappointed things could not turn out better.  
+
+  
+
+Ahmed -  
+
+  
+
+  
+
+Group reflection as a whole - 
 
  
